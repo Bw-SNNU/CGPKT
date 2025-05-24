@@ -1,5 +1,5 @@
-# CGPKT
-Toward Personalized Knowledge Tracing Model Integrating Concepts Importance and Group Features
+# CGPKT:Toward Personalized Knowledge Tracing Model Integrating Concepts Importance and Group Features
+
 CGPKT is a personalised knowledge tracking model that incorporates the importance of knowledge concepts and group features. He achieved good performance results on the evaluation metrics we selected.
 
 The document structure is distributed in the following way:
